@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Johnny Jameson.
+- 👋 Hi, I’m John Jameson.
 - 👀 I’m interested in Red Teaming and Penetration Testing.
-- 🌱 I’m currently learning PEH through TCM.
+- 🌱 I’m currently learning PWK/OSCP.
 - 💞️ I’m looking to collaborate on all things Red Team and Pentesting.
-- 📫 How to reach me: @jajameson2 on Twitter
+- 📫 How to reach me: @jajameson2 on LinkedIn
 
 <!---
 jajameson2/jajameson2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
